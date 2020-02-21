@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mainClick.ogg-c756e178bdda414c0534bef8f8e6d2c1.oggstr"
+
+[deps]
+
+source_file="res://assetsNeeded/Sounds/mainClick.ogg"
+dest_files=[ "res://.import/mainClick.ogg-c756e178bdda414c0534bef8f8e6d2c1.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
